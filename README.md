@@ -15,7 +15,7 @@ Collaboro con altri developer e realizzo progetti su commissione per crescere e 
 ### 🎓 Certifications
 Anche se sono giovane, ho già ottenuto alcune **certificazioni ufficiali** nel campo IT e sviluppo software:
 
-✅ Harvard CS50: Introduction to Computer Science  
+✅ React FrontEnd — [HackerRank Certificate](https://www.hackerrank.com/certificates/e9146c0388af)
 ✅ Cisco IT Essentials  
 ✅ Google Cybersecurity Professional  
 ✅ PCAP – Certified Associate in Python Programming  
